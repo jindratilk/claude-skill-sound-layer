@@ -10,7 +10,7 @@ git clone https://github.com/jindratilk/claude-skill-sound-layer ~/.claude/skill
 
 ## Credits
 
-This skill is a workflow wrapper around the scripts in [Bodila51/opus-sound-layer](https://github.com/Bodila51/opus-sound-layer) (MIT), based on the video "Sound design for Opus 5.5: no more cheap beeps" by 0xCodila. The skill clones that repository at runtime; none of its code is copied here.
+The skill uses the scripts from [Bodila51/opus-sound-layer](https://github.com/Bodila51/opus-sound-layer) (MIT). It clones that repository at runtime; no code from it is included here.
 
 ## License
 
